@@ -16,7 +16,7 @@
   <img align="center" alt="Tensorflow" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg">
   <img align="center" alt="Keras" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
   <img align="center" alt="C" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
-
+  <img align="center" alt="OpenCV" height="30" width="40" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg">
 </p>
 
 

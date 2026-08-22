@@ -195,19 +195,32 @@ AI-assisted perception, navigation and control system for autonomous underwater 
 ## 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rmmehmet&show_icons=true&theme=tokyonight&hide_border=true" />
-
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=rmmehmet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmmehmet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="180"
+  />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmmehmet&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=rmmehmet&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
-> GitHub statistics services can occasionally experience API rate limits. If the stats card stops loading, the rest of the profile remains unaffected.
+### 🟩 Contribution Activity
 
+<p align="center">
+  <img 
+    src="https://ghchart.rshah.org/rmmehmet"
+    alt="GitHub Contribution Activity"
+    width="100%"
+  />
+</p>
 ---
 
 ## 📈 What I'm Building

@@ -14,6 +14,17 @@
 
 ---
 
+
+## 🛠️ Languages & Technologies
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,typescript,pytorch,tensorflow,opencv,dotnet,nodejs,fastapi,postgres,docker,linux,git&theme=dark" />
+
+</p>
+
+---
+
 ## 🧠 About Me
 
 * 🤖 **Full Stack AI Engineer** focused on Computer Vision, LLMs and Agentic AI
@@ -182,28 +193,7 @@ AI-assisted perception, navigation and control system for autonomous underwater 
 
 ---
 
-## 🛠️ Languages & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,typescript,pytorch,tensorflow,opencv,dotnet,nodejs,fastapi,postgres,docker,linux,git&theme=dark" />
-
-</p>
-
----
-
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=rmmehmet&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmmehmet&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="180"
-  />
-</p>
 
 <p align="center">
   <img 
@@ -212,14 +202,20 @@ AI-assisted perception, navigation and control system for autonomous underwater 
   />
 </p>
 
-### 🟩 Contribution Activity
+## ⚡ Building in Public
 
 <p align="center">
-  <img 
-    src="https://ghchart.rshah.org/rmmehmet"
+  <img
+    src="https://ghchart.rshah.org/0e75b6/rmmehmet"
     alt="GitHub Contribution Activity"
     width="100%"
   />
+</p>
+
+<p align="center">
+  <sub>
+    Experiments become systems. Systems become products.
+  </sub>
 </p>
 ---
 

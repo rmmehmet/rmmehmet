@@ -1,0 +1,8 @@
+# Local-only, one-time art generation -- NOT installed by the daily workflow.
+# Run these yourself only when you change your photo or the wordmark text:
+#   pip install -r scripts/requirements-local.txt
+#   python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
+#   python scripts/make_wordmark_svg.py --mode rock
+opencv-python
+numpy
+Pillow

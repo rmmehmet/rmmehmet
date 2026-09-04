@@ -1,289 +1,96 @@
-# 👋 Ramazan Mehmet UZUN
+<div align="center">
 
-<h3 align="center">Full Stack AI Engineer | Computer Vision | Agentic AI | LLM & RAG Systems</h3>
+<!-- hero: monochrome ASCII portrait (types in) beside a 3D ASCII wordmark
+     (wipes in left-to-right, then rocks on its vertical axis). widths are
+     picked so both panels land at roughly the same height.
+     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
+     wordmark: python scripts/make_wordmark_svg.py --mode rock -->
+
+<h3><code>mehmet@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./uzun-ascii.svg" width="370" alt="Ramazan Mehmet Uzun — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="RMU — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<!-- animated contribution graph: real data, boxes pop in one by one
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+
+<h3><code>mehmet@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Mehmet's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>mehmet@github ~ $ ./links.sh</code></h3>
+
+<p><b>Full Stack AI Engineer · Computer Vision · Agentic AI · LLM & RAG</b></p>
+
+[![GitHub](https://img.shields.io/badge/GitHub-rmmehmet-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmmehmet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ramazan--mehmet--uzun-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramazan-mehmet-uzun)
+[![Email](https://img.shields.io/badge/Email-rm.mehmetuzun%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rm.mehmetuzun@gmail.com)
+
+<br>
+
+</div>
 
 <p align="center">
-  Building AI systems from <b>model development to production deployment</b> 🚀
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ramazan-mehmet-uzun">LinkedIn</a> •
-  <a href="https://github.com/rmmehmet">GitHub</a> •
-  <a href="mailto:rm.mehmetuzun@gmail.com">Email</a>
-</p>
-
----
-
-
-## 🛠️ Languages & Technologies
-
-<p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,typescript,pytorch,tensorflow,opencv,dotnet,nodejs,fastapi,postgres,docker,linux,git&theme=dark" />
-
 </p>
 
 ---
 
-## 🧠 About Me
+<h3><code>mehmet@github ~ $ ./stack.sh</code></h3>
 
-* 🤖 **Full Stack AI Engineer** focused on Computer Vision, LLMs and Agentic AI
-* 🧩 Designing **end-to-end AI systems** from model development to API and production deployment
-* 🧠 Building **LLM, RAG, Agentic AI and multimodal AI applications**
-* 👁️ Developing **real-time Computer Vision & Edge AI systems**
-* ⚡ Optimizing AI inference using **ONNX, TensorRT, RKNN and hardware acceleration**
-* 🖥️ Deploying AI workloads on **Linux, Docker and embedded edge devices**
-* 🔍 Interested in **scalable, reliable and production-ready AI architectures**
+| Area | Technologies |
+| --- | --- |
+| 🤖 Agentic AI | AI Agents · Tool/Function Calling · Multi-step Reasoning · Agentic RAG |
+| 🧠 LLM / VLM | LLMs · VLMs · Prompt Engineering · Multimodal AI |
+| 🔎 RAG & Retrieval | Milvus · Vector DBs · Embeddings · Semantic Search · Reranking |
+| 👁️ Computer Vision | YOLO · OpenCV · DeepSORT · ByteTrack · OCR / PaddleOCR |
+| ⚡ Edge AI | Rockchip RK3576 · RKNPU · RKNN Toolkit · Real-Time Inference |
+| 🚀 Optimization | ONNX · ONNX Runtime · TensorRT · FP16 / INT8 · Quantization |
+| 🔌 Backend | FastAPI · REST APIs · Async Processing · PostgreSQL |
+| 🐳 Deployment | Docker · Linux · Cloud & Edge Devices |
+| 🏗️ Architecture | AI Pipelines · Microservices · Production Systems |
 
----
-
-## ⚙️ AI & Engineering Stack
-
-### 🤖 AI / LLM / Agentic AI
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,docker,linux,git&theme=dark" />
-
-</p>
-
-<p align="center">
-<b>LLM Systems</b><br>
-LLMs • VLMs • RAG • Agentic AI • AI Agents • Tool Calling • Function Calling • Prompt Engineering • Semantic Search • Embeddings
-</p>
-
-<p align="center">
-<b>Retrieval & Knowledge Systems</b><br>
-Milvus • Vector Databases • Embedding Models • Hybrid Retrieval • Semantic Similarity • Reranking • Document Chunking
-</p>
-
----
-
-## 👁️ Computer Vision & Edge AI
-
-<p align="center">
-<b>Computer Vision</b><br>
-PyTorch • TensorFlow • OpenCV • YOLO • Object Detection • Object Tracking • DeepSORT • ByteTrack • OCR • PaddleOCR
-</p>
-
-<p align="center">
-<b>Model Optimization</b><br>
-ONNX • ONNX Runtime • TensorRT • RKNN • Quantization • FP16 • INT8 • Model Conversion • Hardware Acceleration
-</p>
-
-<p align="center">
-<b>Edge AI</b><br>
-Rockchip RK3576 • RKNPU • RKNN Toolkit • Real-Time Inference • Embedded AI • Edge Deployment
-</p>
-
----
-
-## 🚀 AI Engineering & Deployment
-
-* 🏗️ **AI Backend Architecture** — FastAPI, REST APIs, async processing
-* 🗄️ **Data & Vector Infrastructure** — PostgreSQL, Milvus
-* 🐳 **Containerization** — Docker
-* 🐧 **Deployment** — Linux, embedded systems, cloud environments
-* ⚡ **Inference Optimization** — ONNX Runtime, TensorRT, RKNN
-* 🔄 **AI Pipelines** — Data → Model → Inference → API → Deployment
-* 📊 **Production AI** — monitoring, performance optimization and scalable architecture
-* 🔌 **Model Serving** — integrating AI models into production backend systems
-
----
-
-## 🧠 Agentic AI
-
-Currently exploring and building systems around:
+<h3><code>mehmet@github ~ $ ./agentic_pipeline.sh</code></h3>
 
 ```text
-User
- ↓
-AI Agent
- ↓
-Reasoning / Planning
- ↓
-Tool Calling
- ↓
-RAG / Vector Search
- ↓
-External APIs / Database
- ↓
-LLM / VLM
- ↓
-Action / Response
-```
-
-Areas of interest:
-
-* 🤖 Autonomous AI Agents
-* 🔧 Tool & Function Calling
-* 🧠 Multi-step reasoning workflows
-* 🔎 Agentic RAG
-* 📚 Knowledge-based agents
-* 🔗 API & database tool integration
-* 👁️ Vision-enabled agents
-* ⚙️ AI workflow automation
-
----
-
-## 🔬 Core Projects
-
-### 🎥 Real-Time Violence Detection System
-
-Deep learning based real-time video analysis system for detecting violent behavior from video streams.
-
-**Focus:** Computer Vision • Deep Learning • Real-Time Inference
-
----
-
-### 🛒 Shoplifting Detection AI
-
-Computer vision pipeline designed for detecting suspicious activities in retail environments.
-
-**Focus:** Object Detection • Tracking • Anomaly Detection • Video Analytics
-
----
-
-### 📄 AI Resume Intelligence & ATS Platform
-
-AI-powered platform for analyzing resumes against job descriptions, calculating ATS compatibility and semantic job matching.
-
-**Focus:** NLP • Embeddings • Semantic Search • RAG • FastAPI • PostgreSQL • Milvus
-
----
-
-### 🧠 Dense RAG Recommendation System
-
-Semantic recommendation system using multiple vector collections, embedding models and LLM-based reranking.
-
-**Focus:** RAG • Milvus • Embeddings • Semantic Retrieval • LLM Reranking
-
----
-
-### 👁️ Real-Time OCR Edge AI System
-
-Real-time OCR pipeline designed to extract medical monitor values from video streams.
-
-**Focus:** PaddleOCR • OpenCV • OCR • RK3576 • RKNN • RKNPU • Edge AI
-
----
-
-### 🌊 Autonomous Underwater Vehicle
-
-AI-assisted perception, navigation and control system for autonomous underwater vehicles.
-
-**Focus:** Computer Vision • AI • Robotics • Autonomous Systems
-
----
-
-## 🧩 Engineering Focus
-
-| Area                | Technologies                                           |
-| ------------------- | ------------------------------------------------------ |
-| 🤖 Agentic AI       | AI Agents, Tool Calling, Function Calling, Agentic RAG |
-| 🧠 LLM / VLM        | LLMs, VLMs, Prompt Engineering, Multimodal AI          |
-| 🔎 RAG              | Milvus, Embeddings, Semantic Search, Reranking         |
-| 👁️ Computer Vision | YOLO, OpenCV, DeepSORT, ByteTrack                      |
-| 📷 OCR              | PaddleOCR, Image Processing                            |
-| ⚡ Edge AI           | RK3576, RKNN, RKNPU                                    |
-| 🚀 Optimization     | ONNX, TensorRT, ONNX Runtime, FP16, INT8               |
-| 🔌 Backend          | FastAPI, REST APIs, PostgreSQL                         |
-| 🐳 Deployment       | Docker, Linux, Cloud & Edge Deployment                 |
-| 🏗️ Architecture    | AI Pipelines, Microservices, Production Systems        |
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=rmmehmet&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-## ⚡ Building in Public
-
-<p align="center">
-  <img
-    src="https://ghchart.rshah.org/0e75b6/rmmehmet"
-    alt="GitHub Contribution Activity"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    Experiments become systems. Systems become products.
-  </sub>
-</p>
----
-
-## 📈 What I'm Building
-
-```text
-                ┌─────────────────────┐
-                │      AI Models      │
-                │  LLM • VLM • YOLO   │
-                └──────────┬──────────┘
-                           │
-                           ▼
-                ┌─────────────────────┐
-                │   AI Applications   │
-                │ RAG • Agents • CV   │
-                └──────────┬──────────┘
-                           │
-                           ▼
-                ┌─────────────────────┐
-                │    AI Backend       │
-                │ FastAPI • APIs      │
-                └──────────┬──────────┘
-                           │
-                           ▼
-                ┌─────────────────────┐
-                │ Infrastructure      │
-                │ PostgreSQL • Milvus │
-                └──────────┬──────────┘
-                           │
-                           ▼
-                ┌─────────────────────┐
-                │ Production / Edge   │
-                │ Docker • Linux      │
-                │ TensorRT • RKNN     │
-                └─────────────────────┘
+User → AI Agent → Reasoning/Planning → Tool Calling
+     → RAG / Vector Search → External APIs & DB
+     → LLM / VLM → Action / Response
 ```
 
 ---
 
-## 🎯 Current Interests
+<h3><code>mehmet@github ~ $ ./projects.sh</code></h3>
 
-* 🤖 Agentic AI & Autonomous Agents
-* 🧠 LLM / VLM Applications
-* 🔎 Advanced RAG Architectures
-* 👁️ Multimodal Computer Vision
-* ⚡ Edge AI & Hardware Acceleration
-* 🚀 AI Model Optimization
-* 🏗️ Production AI Systems
-* ☁️ AI Deployment & Infrastructure
+| Project | Focus |
+| --- | --- |
+| 🎥 Real-Time Violence Detection | Computer Vision · Deep Learning · Real-Time Inference |
+| 🛒 Shoplifting Detection AI | Object Detection · Tracking · Anomaly Detection |
+| 📄 AI Resume Intelligence & ATS | NLP · Embeddings · RAG · FastAPI · PostgreSQL · Milvus |
+| 🧠 Dense RAG Recommendation System | Milvus · Multi-Collection Embeddings · LLM Reranking |
+| 👁️ Real-Time OCR Edge AI | PaddleOCR · OpenCV · RK3576 · RKNN · RKNPU |
+| 🌊 Autonomous Underwater Vehicle | Computer Vision · Robotics · Autonomous Systems |
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-<p align="center">
+<h3><code>mehmet@github ~ $ ./contact.sh</code></h3>
 
 <a href="https://www.linkedin.com/in/ramazan-mehmet-uzun">LinkedIn</a> • <a href="mailto:rm.mehmetuzun@gmail.com">Email</a> • <a href="https://github.com/rmmehmet">GitHub</a>
 
-</p>
-
----
-
-<p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=rmmehmet&label=Profile%20Views&style=flat" />
 
-</p>
+<sub><i>Building intelligent systems that move from research to production.</i> 🚀</sub>
 
-<p align="center">
-  <i>Building intelligent systems that move from research to production.</i> 🚀
-</p>
+</div>
